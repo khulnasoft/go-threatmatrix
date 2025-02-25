@@ -1,4 +1,4 @@
-name: Go
+name: 🔨 Build Test
 
 on:
   push:

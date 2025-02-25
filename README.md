@@ -1,8 +1,8 @@
-# go-threatmatrix
+# Go-ThreatMatrix
+[![Go Reference](https://pkg.go.dev/badge/github.com/khulnasoft/go-threatmatrix.svg)](https://pkg.go.dev/github.com/khulnasoft/go-threatmatrix)
 [![GitHub issues](https://img.shields.io/github/issues/khulnasoft/go-threatmatrix?style=plastic)](https://github.com/khulnasoft/go-threatmatrix/issues)
 [![GitHub license](https://img.shields.io/github/license/khulnasoft/go-threatmatrix?style=plastic)](https://github.com/khulnasoft/go-threatmatrix/blob/main/LICENSE)
 
-![go-banner](./Banner.png)
 go-threatmatrix is a client library/SDK that allows developers to easily automate and integrate [ThreatMatrix](https://github.com/khulnasoft/ThreatMatrix) with their own set of tools!
 
 <!-- omit in toc -->
